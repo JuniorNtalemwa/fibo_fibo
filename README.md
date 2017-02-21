@@ -2,7 +2,7 @@
 Creates the Fibonacci series by getting user input for n1, n2 and the series length
 
 e.g: 
-- Enter first number: 8
+'Enter first number: 8'
 - Enter second number: 5
 - Enter the series number: 8
 - 8
